@@ -66,7 +66,7 @@ public class BoardDao {
 			}
 		}
 		return list;
-	} // listselectall
+	} // listSelectAll
 	
 	
 	// 게시글 1개 저장 메소드
@@ -96,7 +96,7 @@ public class BoardDao {
 				}
 			}
 			return;
-		} // listselectall
+		} // listInsert
 
 		
 		// board(게시글) 1개 가져오기 메소드
